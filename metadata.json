@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ModaMatch AI",
+  "description": "A specialized AI tool for fashion retailers to transform model photos. Change sizes, backgrounds, and styles while preserving clothing patterns using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
